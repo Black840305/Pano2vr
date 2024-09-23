@@ -86,7 +86,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Đầu Bể " comment="" nodeid="node3" copyright="" altitude="57.98" info="" description="" author="" datetime="8/18/2023 3:20 PM" latitude="20.973222" customnodeid="" tags="3|banngay|beboi|daubebanngay" source="" heading="0" longitude="105.498842"/>
+    <userdata title="Đầu Bể " comment="" nodeid="node3" copyright="" altitude="57.98" info="" description="" author="" datetime="8/18/2023 3:20 PM" latitude="20.973222" customnodeid="" tags="3|banngay|banngaybandem|beboi|daubebanngay" source="" heading="0" longitude="105.498842"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -156,7 +156,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node5" copyright="" altitude="58.64" info="" description="" author="" datetime="8/18/2023 3:23 PM" latitude="20.972972" customnodeid="" tags="5|banngay|loirabanngay" source="" heading="0" longitude="105.498947"/>
+    <userdata title="" comment="" nodeid="node5" copyright="" altitude="58.64" info="" description="" author="" datetime="8/18/2023 3:23 PM" latitude="20.972972" customnodeid="" tags="5|banngay|banngaybandem|loirabanngay" source="" heading="0" longitude="105.498947"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -191,7 +191,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node6" copyright="" altitude="57.32" info="" description="" author="" datetime="8/18/2023 3:24 PM" latitude="20.972864" customnodeid="" tags="6|banngay|loiracongbanngay" source="" heading="0" longitude="105.499136"/>
+    <userdata title="" comment="" nodeid="node6" copyright="" altitude="57.32" info="" description="" author="" datetime="8/18/2023 3:24 PM" latitude="20.972864" customnodeid="" tags="6|banngay|banngaybandem|loiracongbanngay" source="" heading="0" longitude="105.499136"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -225,7 +225,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Homestay" comment="" nodeid="node7" copyright="" altitude="57.63" info="" description="Homestay" author="" datetime="8/18/2023 3:25 PM" latitude="20.972922" customnodeid="" tags="7|banngay|homestaybanngay" source="" heading="0" longitude="105.499211"/>
+    <userdata title="Homestay" comment="" nodeid="node7" copyright="" altitude="57.63" info="" description="Homestay" author="" datetime="8/18/2023 3:25 PM" latitude="20.972922" customnodeid="" tags="7|banngay|banngaybandem|homestaybanngay" source="" heading="0" longitude="105.499211"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -319,7 +319,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Khu Giải Trí" comment="" nodeid="node10" copyright="" altitude="66.78" info="" description="Khu Giải Trí" author="" datetime="8/18/2023 4:39 PM" latitude="20.973111" customnodeid="" tags="10|banngay|khugiaitribanngay" source="" heading="0" longitude="105.498997"/>
+    <userdata title="Khu Giải Trí" comment="" nodeid="node10" copyright="" altitude="66.78" info="" description="Khu Giải Trí" author="" datetime="8/18/2023 4:39 PM" latitude="20.973111" customnodeid="" tags="10|banngay|banngaybandem|khugiaitribanngay" source="" heading="0" longitude="105.498997"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -352,7 +352,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node11" copyright="" altitude="60.12" info="" description="" author="" datetime="8/18/2023 4:39 PM" latitude="20.973264" customnodeid="" tags="11|banngay|loivaomochuongbanngay" source="" heading="0" longitude="105.499092"/>
+    <userdata title="" comment="" nodeid="node11" copyright="" altitude="60.12" info="" description="" author="" datetime="8/18/2023 4:39 PM" latitude="20.973264" customnodeid="" tags="11|banngay|banngaybandem|loivaomochuongbanngay" source="" heading="0" longitude="105.499092"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -387,7 +387,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Phòng Khách" comment="" nodeid="node12" copyright="" altitude="34.40" info="" description="Nơi Tiếp Khách và sinh hoạt hàng ngày" author="" datetime="8/18/2023 4:41 PM" latitude="20.973236" customnodeid="Phòng Khách" tags="12|banngay|phongkhachbanngay" source="" heading="0" longitude="105.499064"/>
+    <userdata title="Phòng Khách" comment="" nodeid="node12" copyright="" altitude="34.40" info="" description="Nơi Tiếp Khách và sinh hoạt hàng ngày" author="" datetime="8/18/2023 4:41 PM" latitude="20.973236" customnodeid="Phòng Khách" tags="12|banngay|banngaybandem|phongkhachbanngay" source="" heading="0" longitude="105.499064"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -420,7 +420,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Khuôn Viên Vườn 2" comment="" nodeid="node13" copyright="" altitude="55.16" info="" description="Khuôn Viên Vườn 2" author="" datetime="8/18/2023 4:52 PM" latitude="20.973217" customnodeid="" tags="13|banngay|Khuonvienvuon" source="" heading="0" longitude="105.499347"/>
+    <userdata title="Khuôn Viên Vườn 2" comment="" nodeid="node13" copyright="" altitude="55.16" info="" description="Khuôn Viên Vườn 2" author="" datetime="8/18/2023 4:52 PM" latitude="20.973217" customnodeid="" tags="13|banngay|banngaybandem|Khuonvienvuon" source="" heading="0" longitude="105.499347"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -452,7 +452,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Khuôn Viên Vườn 3" comment="" nodeid="node14" copyright="" altitude="58.41" info="" description="Khuôn Viên Vườn 3" author="" datetime="8/18/2023 4:53 PM" latitude="20.973169" customnodeid="" tags="14|banngay|Khuonvienvuon" source="" heading="0" longitude="105.499333"/>
+    <userdata title="Khuôn Viên Vườn 3" comment="" nodeid="node14" copyright="" altitude="58.41" info="" description="Khuôn Viên Vườn 3" author="" datetime="8/18/2023 4:53 PM" latitude="20.973169" customnodeid="" tags="14|banngay|banngaybandem|Khuonvienvuon" source="" heading="0" longitude="105.499333"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -484,7 +484,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Nhà Cổ " comment="" nodeid="node15" copyright="" altitude="58.89" info="" description="Ngôi Nhà Cổ Kính " author="" datetime="8/18/2023 4:54 PM" latitude="20.973267" customnodeid="" tags="15|banngay|nhaco" source="" heading="0" longitude="105.499456"/>
+    <userdata title="Nhà Cổ " comment="" nodeid="node15" copyright="" altitude="58.89" info="" description="Ngôi Nhà Cổ Kính " author="" datetime="8/18/2023 4:54 PM" latitude="20.973267" customnodeid="" tags="15|banngay|banngaybandem|nhaco" source="" heading="0" longitude="105.499456"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -517,7 +517,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node16" copyright="" altitude="55.50" info="" description="" author="" datetime="8/18/2023 4:55 PM" latitude="20.973222" customnodeid="" tags="16|banngay" source="" heading="0" longitude="105.499514"/>
+    <userdata title="" comment="" nodeid="node16" copyright="" altitude="55.50" info="" description="" author="" datetime="8/18/2023 4:55 PM" latitude="20.973222" customnodeid="" tags="16|banngay|banngaybandem" source="" heading="0" longitude="105.499514"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -549,7 +549,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Bếp Xưa" comment="" nodeid="node17" copyright="" altitude="59.86" info="" description="Bếp Xưa" author="" datetime="8/18/2023 4:55 PM" latitude="20.973219" customnodeid="" tags="17|banngay|nhaco" source="" heading="0" longitude="105.499572"/>
+    <userdata title="Bếp Xưa" comment="" nodeid="node17" copyright="" altitude="59.86" info="" description="Bếp Xưa" author="" datetime="8/18/2023 4:55 PM" latitude="20.973219" customnodeid="" tags="17|banngay|banngaybandem|nhaco" source="" heading="0" longitude="105.499572"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -645,7 +645,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Phòng Nghỉ Mộc Hương 4" comment="" nodeid="node20" copyright="" altitude="44.59" info="" description="Phòng Nghỉ Mộc Hương 4" author="" datetime="8/19/2023 11:05 AM" latitude="20.973403" customnodeid="" tags="20|banngay" source="" heading="0" longitude="105.499106"/>
+    <userdata title="Phòng Nghỉ Mộc Hương 4" comment="" nodeid="node20" copyright="" altitude="44.59" info="" description="Phòng Nghỉ Mộc Hương 4" author="" datetime="8/19/2023 11:05 AM" latitude="20.973403" customnodeid="" tags="20|banngay|banngaybandem" source="" heading="0" longitude="105.499106"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -678,7 +678,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Nhà Tắm Mộc Hương " comment="" nodeid="node21" copyright="" altitude="51.28" info="" description="Nhà Tắm Mộc Hương " author="" datetime="8/19/2023 11:05 AM" latitude="20.973364" customnodeid="" tags="21|banngay" source="" heading="0" longitude="105.499125"/>
+    <userdata title="Nhà Tắm Mộc Hương " comment="" nodeid="node21" copyright="" altitude="51.28" info="" description="Nhà Tắm Mộc Hương " author="" datetime="8/19/2023 11:05 AM" latitude="20.973364" customnodeid="" tags="21|banngay|banngaybandem" source="" heading="0" longitude="105.499125"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -709,7 +709,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Mộc Hương 4 " comment="" nodeid="node22" copyright="" altitude="50.96" info="" description="Mộc Hương 4 " author="" datetime="8/19/2023 11:06 AM" latitude="20.973442" customnodeid="" tags="22|banngay" source="" heading="0" longitude="105.499117"/>
+    <userdata title="Mộc Hương 4 " comment="" nodeid="node22" copyright="" altitude="50.96" info="" description="Mộc Hương 4 " author="" datetime="8/19/2023 11:06 AM" latitude="20.973442" customnodeid="" tags="22|banngay|banngaybandem" source="" heading="0" longitude="105.499117"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -741,7 +741,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Phòng Nghỉ Mộc Hương 3" comment="" nodeid="node23" copyright="" altitude="63.22" info="" description="Phòng Nghỉ Mộc Hương 3" author="" datetime="8/19/2023 11:14 AM" latitude="20.973264" customnodeid="" tags="23|banngay" source="" heading="0" longitude="105.499047"/>
+    <userdata title="Phòng Nghỉ Mộc Hương 3" comment="" nodeid="node23" copyright="" altitude="63.22" info="" description="Phòng Nghỉ Mộc Hương 3" author="" datetime="8/19/2023 11:14 AM" latitude="20.973264" customnodeid="" tags="23|banngay|banngaybandem" source="" heading="0" longitude="105.499047"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -773,7 +773,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node24" copyright="" altitude="43.24" info="" description="" author="" datetime="8/19/2023 11:15 AM" latitude="20.973303" customnodeid="" tags="24|banngay" source="" heading="0" longitude="105.499092"/>
+    <userdata title="" comment="" nodeid="node24" copyright="" altitude="43.24" info="" description="" author="" datetime="8/19/2023 11:15 AM" latitude="20.973303" customnodeid="" tags="24|banngay|banngaybandem" source="" heading="0" longitude="105.499092"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -805,7 +805,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node25" copyright="" altitude="52.09" info="" description="" author="" datetime="8/19/2023 11:15 AM" latitude="20.973394" customnodeid="" tags="25|banngay" source="" heading="0" longitude="105.499036"/>
+    <userdata title="" comment="" nodeid="node25" copyright="" altitude="52.09" info="" description="" author="" datetime="8/19/2023 11:15 AM" latitude="20.973394" customnodeid="" tags="25|banngay|banngaybandem" source="" heading="0" longitude="105.499036"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -836,7 +836,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Phòng Nghỉ Mộc Dương 1" comment="" nodeid="node26" copyright="" altitude="58.58" info="" description="Phòng Nghỉ Mộc Dương 1" author="" datetime="8/19/2023 11:22 AM" latitude="20.973239" customnodeid="" tags="26|banngay" source="" heading="0" longitude="105.498869"/>
+    <userdata title="Phòng Nghỉ Mộc Dương 1" comment="" nodeid="node26" copyright="" altitude="58.58" info="" description="Phòng Nghỉ Mộc Dương 1" author="" datetime="8/19/2023 11:22 AM" latitude="20.973239" customnodeid="" tags="26|banngay|banngaybandem" source="" heading="0" longitude="105.498869"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -868,7 +868,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node27" copyright="" altitude="51.38" info="" description="" author="" datetime="8/19/2023 11:23 AM" latitude="20.973278" customnodeid="" tags="27|banngay" source="" heading="0" longitude="105.499092"/>
+    <userdata title="" comment="" nodeid="node27" copyright="" altitude="51.38" info="" description="" author="" datetime="8/19/2023 11:23 AM" latitude="20.973278" customnodeid="" tags="27|banngay|banngaybandem" source="" heading="0" longitude="105.499092"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -900,7 +900,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node28" copyright="" altitude="52.67" info="" description="" author="" datetime="8/19/2023 11:24 AM" latitude="20.973228" customnodeid="" tags="28|banngay" source="" heading="0" longitude="105.499067"/>
+    <userdata title="" comment="" nodeid="node28" copyright="" altitude="52.67" info="" description="" author="" datetime="8/19/2023 11:24 AM" latitude="20.973228" customnodeid="" tags="28|banngay|banngaybandem" source="" heading="0" longitude="105.499067"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -931,7 +931,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Phòng Nghỉ Mộc Hương 2" comment="" nodeid="node30" copyright="" altitude="45.62" info="" description="Phòng Nghỉ Mộc Hương 2" author="" datetime="8/19/2023 11:26 AM" latitude="20.973178" customnodeid="" tags="30|banngay" source="" heading="0" longitude="105.499164"/>
+    <userdata title="Phòng Nghỉ Mộc Hương 2" comment="" nodeid="node30" copyright="" altitude="45.62" info="" description="Phòng Nghỉ Mộc Hương 2" author="" datetime="8/19/2023 11:26 AM" latitude="20.973178" customnodeid="" tags="30|banngay|banngaybandem" source="" heading="0" longitude="105.499164"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -964,7 +964,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node31" copyright="" altitude="43.45" info="" description="" author="" datetime="8/19/2023 11:27 AM" latitude="20.973306" customnodeid="" tags="31|banngay" source="" heading="0" longitude="105.498969"/>
+    <userdata title="" comment="" nodeid="node31" copyright="" altitude="43.45" info="" description="" author="" datetime="8/19/2023 11:27 AM" latitude="20.973306" customnodeid="" tags="31|banngay|banngaybandem" source="" heading="0" longitude="105.498969"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -995,7 +995,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node32" copyright="" altitude="52.79" info="" description="" author="" datetime="8/19/2023 11:27 AM" latitude="20.973306" customnodeid="" tags="32|banngay" source="" heading="0" longitude="105.499056"/>
+    <userdata title="" comment="" nodeid="node32" copyright="" altitude="52.79" info="" description="" author="" datetime="8/19/2023 11:27 AM" latitude="20.973306" customnodeid="" tags="32|banngay|banngaybandem" source="" heading="0" longitude="105.499056"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1027,7 +1027,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Bàn Bi Lắc " comment="" nodeid="node33" copyright="" altitude="51.30" info="" description="Bàn Bi Lắc " author="" datetime="8/19/2023 11:29 AM" latitude="20.973192" customnodeid="" tags="33|banngay|phongkhach1" source="" heading="0" longitude="105.499250"/>
+    <userdata title="Bàn Bi Lắc " comment="" nodeid="node33" copyright="" altitude="51.30" info="" description="Bàn Bi Lắc " author="" datetime="8/19/2023 11:29 AM" latitude="20.973192" customnodeid="" tags="33|banngay|banngaybandem|phongkhach1" source="" heading="0" longitude="105.499250"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1061,7 +1061,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Phòng Bếp " comment="" nodeid="node34" copyright="" altitude="50.80" info="" description="Phòng Bếp " author="" datetime="8/19/2023 11:30 AM" latitude="20.973200" customnodeid="" tags="34|banngay|phongkhach1" source="" heading="0" longitude="105.499311"/>
+    <userdata title="Phòng Bếp " comment="" nodeid="node34" copyright="" altitude="50.80" info="" description="Phòng Bếp " author="" datetime="8/19/2023 11:30 AM" latitude="20.973200" customnodeid="" tags="34|banngay|banngaybandem|phongkhach1" source="" heading="0" longitude="105.499311"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1092,7 +1092,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Bàn Trà" comment="" nodeid="node35" copyright="" altitude="55.19" info="" description="Bàn Trà" author="" datetime="8/19/2023 11:30 AM" latitude="20.973175" customnodeid="" tags="35|banngay|phongkhach1" source="" heading="0" longitude="105.499247"/>
+    <userdata title="Bàn Trà" comment="" nodeid="node35" copyright="" altitude="55.19" info="" description="Bàn Trà" author="" datetime="8/19/2023 11:30 AM" latitude="20.973175" customnodeid="" tags="35|banngay|banngaybandem|phongkhach1" source="" heading="0" longitude="105.499247"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1124,7 +1124,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node36" copyright="" altitude="61.33" info="" description="" author="" datetime="8/19/2023 11:32 AM" latitude="20.973139" customnodeid="" tags="36|banngay" source="" heading="0" longitude="105.498950"/>
+    <userdata title="" comment="" nodeid="node36" copyright="" altitude="61.33" info="" description="" author="" datetime="8/19/2023 11:32 AM" latitude="20.973139" customnodeid="" tags="36|banngay|banngaybandem" source="" heading="0" longitude="105.498950"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1158,7 +1158,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Bên Ngoài" comment="" nodeid="node37" copyright="" altitude="58.82" info="" description="Bên Ngoài" author="" datetime="8/19/2023 11:33 AM" latitude="20.973175" customnodeid="" tags="37|banngay|phongngutuongvi" source="" heading="0" longitude="105.498825"/>
+    <userdata title="Bên Ngoài" comment="" nodeid="node37" copyright="" altitude="58.82" info="" description="Bên Ngoài" author="" datetime="8/19/2023 11:33 AM" latitude="20.973175" customnodeid="" tags="37|banngay|banngaybandem|phongngutuongvi" source="" heading="0" longitude="105.498825"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1189,7 +1189,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node38" copyright="" altitude="58.92" info="" description="" author="" datetime="8/19/2023 11:34 AM" latitude="20.973200" customnodeid="" tags="38|banngay" source="" heading="0" longitude="105.498806"/>
+    <userdata title="" comment="" nodeid="node38" copyright="" altitude="58.92" info="" description="" author="" datetime="8/19/2023 11:34 AM" latitude="20.973200" customnodeid="" tags="38|banngay|banngaybandem" source="" heading="0" longitude="105.498806"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1222,7 +1222,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Cuối Bể " comment="" nodeid="node39" copyright="" altitude="58.92" info="" description="Cuối Bể " author="" datetime="8/19/2023 11:35 AM" latitude="20.973200" customnodeid="" tags="39|banngay|beboi" source="" heading="0" longitude="105.498806"/>
+    <userdata title="Cuối Bể " comment="" nodeid="node39" copyright="" altitude="58.92" info="" description="Cuối Bể " author="" datetime="8/19/2023 11:35 AM" latitude="20.973200" customnodeid="" tags="39|banngay|banngaybandem|beboi" source="" heading="0" longitude="105.498806"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1256,7 +1256,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node40" copyright="" altitude="56.57" info="" description="" author="" datetime="8/19/2023 11:36 AM" latitude="20.973225" customnodeid="" tags="40|banngay" source="" heading="0" longitude="105.498803"/>
+    <userdata title="" comment="" nodeid="node40" copyright="" altitude="56.57" info="" description="" author="" datetime="8/19/2023 11:36 AM" latitude="20.973225" customnodeid="" tags="40|banngay|banngaybandem" source="" heading="0" longitude="105.498803"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1287,7 +1287,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Tường Vi 1" comment="" nodeid="node41" copyright="" altitude="58.89" info="" description="Tường Vi 1" author="" datetime="8/19/2023 11:36 AM" latitude="20.973217" customnodeid="" tags="41|banngay" source="" heading="0" longitude="105.498875"/>
+    <userdata title="Tường Vi 1" comment="" nodeid="node41" copyright="" altitude="58.89" info="" description="Tường Vi 1" author="" datetime="8/19/2023 11:36 AM" latitude="20.973217" customnodeid="" tags="41|banngay|banngaybandem" source="" heading="0" longitude="105.498875"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1320,7 +1320,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Bên Trong " comment="" nodeid="node42" copyright="" altitude="57.34" info="" description="Phòng ngủ Tường Vi 1" author="" datetime="8/19/2023 11:38 AM" latitude="20.973247" customnodeid="" tags="42|banngay|phongngutuongvi" source="" heading="0" longitude="105.498856"/>
+    <userdata title="Bên Trong " comment="" nodeid="node42" copyright="" altitude="57.34" info="" description="Phòng ngủ Tường Vi 1" author="" datetime="8/19/2023 11:38 AM" latitude="20.973247" customnodeid="" tags="42|banngay|banngaybandem|phongngutuongvi" source="" heading="0" longitude="105.498856"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1352,7 +1352,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Nhà Tắm" comment="" nodeid="node43" copyright="" altitude="57.34" info="" description="Phòng Tắm Tường Vi 1" author="" datetime="8/19/2023 11:38 AM" latitude="20.973247" customnodeid="" tags="43|banngay|phongngutuongvi" source="" heading="0" longitude="105.498856"/>
+    <userdata title="Nhà Tắm" comment="" nodeid="node43" copyright="" altitude="57.34" info="" description="Phòng Tắm Tường Vi 1" author="" datetime="8/19/2023 11:38 AM" latitude="20.973247" customnodeid="" tags="43|banngay|banngaybandem|phongngutuongvi" source="" heading="0" longitude="105.498856"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1383,7 +1383,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Đầu Nhà" comment="" nodeid="node44" copyright="" altitude="47.84" info="" description="" author="" datetime="8/19/2023 11:59 AM" latitude="20.973428" customnodeid="" tags="44|banngay|nhaco" source="" heading="0" longitude="105.499664"/>
+    <userdata title="Đầu Nhà" comment="" nodeid="node44" copyright="" altitude="47.84" info="" description="" author="" datetime="8/19/2023 11:59 AM" latitude="20.973428" customnodeid="" tags="44|banngay|banngaybandem|nhaco" source="" heading="0" longitude="105.499664"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1416,7 +1416,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Giữa Nhà" comment="" nodeid="node45" copyright="" altitude="54.67" info="" description="Giữa Nhà" author="" datetime="8/19/2023 12:00 PM" latitude="20.973283" customnodeid="" tags="45|banngay|nhaco" source="" heading="0" longitude="105.499556"/>
+    <userdata title="Giữa Nhà" comment="" nodeid="node45" copyright="" altitude="54.67" info="" description="Giữa Nhà" author="" datetime="8/19/2023 12:00 PM" latitude="20.973283" customnodeid="" tags="45|banngay|banngaybandem|nhaco" source="" heading="0" longitude="105.499556"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1449,7 +1449,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Đồ Cổ" comment="" nodeid="node46" copyright="" altitude="54.35" info="" description="Đồ Cổ" author="" datetime="8/19/2023 12:01 PM" latitude="20.973297" customnodeid="" tags="46|banngay|nhaco" source="" heading="0" longitude="105.499553"/>
+    <userdata title="Đồ Cổ" comment="" nodeid="node46" copyright="" altitude="54.35" info="" description="Đồ Cổ" author="" datetime="8/19/2023 12:01 PM" latitude="20.973297" customnodeid="" tags="46|banngay|banngaybandem|nhaco" source="" heading="0" longitude="105.499553"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1481,7 +1481,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Bên Ngoài Nhà Cổ " comment="" nodeid="node47" copyright="" altitude="55.38" info="" description="Bên Ngoài Nhà Cổ " author="" datetime="8/19/2023 12:02 PM" latitude="20.973247" customnodeid="" tags="47|banngay|nhaco" source="" heading="0" longitude="105.499586"/>
+    <userdata title="Bên Ngoài Nhà Cổ " comment="" nodeid="node47" copyright="" altitude="55.38" info="" description="Bên Ngoài Nhà Cổ " author="" datetime="8/19/2023 12:02 PM" latitude="20.973247" customnodeid="" tags="47|banngay|banngaybandem|nhaco" source="" heading="0" longitude="105.499586"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1512,7 +1512,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Mộc Hương(3+4)" comment="" nodeid="node48" copyright="" altitude="44.39" info="" description="" author="" datetime="8/19/2023 12:06 PM" latitude="20.973331" customnodeid="" tags="48|banngay" source="" heading="0" longitude="105.499025"/>
+    <userdata title="Mộc Hương(3+4)" comment="" nodeid="node48" copyright="" altitude="44.39" info="" description="" author="" datetime="8/19/2023 12:06 PM" latitude="20.973331" customnodeid="" tags="48|banngay|banngaybandem" source="" heading="0" longitude="105.499025"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1547,7 +1547,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="Mộc Hương(1+2)" comment="" nodeid="node49" copyright="" altitude="57.52" info="" description="" author="" datetime="8/19/2023 12:07 PM" latitude="20.973158" customnodeid="" tags="49|banngay" source="" heading="0" longitude="105.499092"/>
+    <userdata title="Mộc Hương(1+2)" comment="" nodeid="node49" copyright="" altitude="57.52" info="" description="" author="" datetime="8/19/2023 12:07 PM" latitude="20.973158" customnodeid="" tags="49|banngay|banngaybandem" source="" heading="0" longitude="105.499092"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -2070,7 +2070,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node65" copyright="" altitude="61.91" info="" description="" author="" datetime="8/29/2023 7:04 PM" latitude="20.973164" customnodeid="" tags="66|anhko|banngaybandem" source="" heading="0" longitude="105.499078"/>
+    <userdata title="" comment="" nodeid="node65" copyright="" altitude="61.91" info="" description="" author="" datetime="8/29/2023 7:04 PM" latitude="20.973164" customnodeid="" tags="66|anhko" source="" heading="0" longitude="105.499078"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -2780,7 +2780,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node87" copyright="" altitude="46.90" info="" description="" author="" datetime="8/29/2023 7:28 PM" latitude="20.973094" customnodeid="" tags="88|anhko|banngaybandem" source="" heading="0" longitude="105.498756"/>
+    <userdata title="" comment="" nodeid="node87" copyright="" altitude="46.90" info="" description="" author="" datetime="8/29/2023 7:28 PM" latitude="20.973094" customnodeid="" tags="88|anhko" source="" heading="0" longitude="105.498756"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -2812,7 +2812,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node88" copyright="" altitude="47.34" info="" description="" author="" datetime="8/29/2023 7:29 PM" latitude="20.973081" customnodeid="" tags="89|anhko|banngaybandem" source="" heading="0" longitude="105.498736"/>
+    <userdata title="" comment="" nodeid="node88" copyright="" altitude="47.34" info="" description="" author="" datetime="8/29/2023 7:29 PM" latitude="20.973081" customnodeid="" tags="89|anhko" source="" heading="0" longitude="105.498736"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -2843,7 +2843,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node89" copyright="" altitude="47.22" info="" description="" author="" datetime="8/29/2023 7:30 PM" latitude="20.973114" customnodeid="" tags="90|anhko|banngaybandem" source="" heading="0" longitude="105.498769"/>
+    <userdata title="" comment="" nodeid="node89" copyright="" altitude="47.22" info="" description="" author="" datetime="8/29/2023 7:30 PM" latitude="20.973114" customnodeid="" tags="90|anhko" source="" heading="0" longitude="105.498769"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
@@ -2875,7 +2875,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" tilt="90" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
     </view>
-    <userdata title="" comment="" nodeid="node90" copyright="" altitude="45.96" info="" description="" author="" datetime="8/29/2023 7:30 PM" latitude="20.973136" customnodeid="" tags="91|anhko|banngaybandem" source="" heading="0" longitude="105.498758"/>
+    <userdata title="" comment="" nodeid="node90" copyright="" altitude="45.96" info="" description="" author="" datetime="8/29/2023 7:30 PM" latitude="20.973136" customnodeid="" tags="91|anhko" source="" heading="0" longitude="105.498758"/>
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label enabled="1" width="180" backgroundcolor="0xffffff" background="1" wordwrap="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" border="1" textalpha="1" bordercolor="0x000000" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
