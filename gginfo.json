@@ -5,6 +5,7 @@
 		"js": [
 			"https://www.youtube.com/iframe_api",
 			"https://player.vimeo.com/api/player.js",
+			"https://maps.googleapis.com/maps/api/js?v=3&key=",
 			"3rdparty/leaflet/leaflet.js",
 			"webxr/webxr-polyfill.min.js"
 		],
@@ -19,7 +20,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2024-09-23T09:06:53.358Z",
+	"creationdate": "2024-09-25T04:25:51.114Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
